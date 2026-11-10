@@ -9,7 +9,7 @@ Material do minicurso de Aprendizado por Reforço oferecido na [ERAMIA-RS 2026](
 O minicurso é acompanhado por um notebook interativo, com explicações, exercícios e experimentos práticos:
 
 - [Abrir o notebook no Google Colab](https://colab.research.google.com/github/ramos-ai/minicurso-eramia-rs-2026/blob/main/notebook_pr%C3%A1tica_RL.ipynb)
-- [Ver o notebook no GitHub](https://github.com/ramos-ai/minicurso-eramia-rs-2026/blob/main/notebook_pr%C3%A1tica_RL.ipynb)
+- [Link para Quizzes](https://wayground.com/join?gc=914432&source=liveDashboard)
 
 O notebook aborda, entre outros tópicos:
 
